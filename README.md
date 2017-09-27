@@ -1,5 +1,5 @@
-# epfl-osip-2017
-Workshop for Open Science in Practice at EPFL
+# Open Science in Practice 2017
+Workshop for [Open Science in Practice at EPFL 2017](https://osip2017.epfl.ch/).
 
 
 # Schedule
@@ -13,6 +13,11 @@ Workshop for Open Science in Practice at EPFL
 1. [Collaborating on GitHub](github-collaboration.md)
 1. Testing your work
 1. Bonus material
+
+
+# Slides
+
+Slides for the day that you can comment on: https://docs.google.com/presentation/d/1BpJBOKu1h4mDJ5QOT-AMXN9id9S2KfBx2LeEnb6gqBc/edit?usp=sharing
 
 
 # Credits
