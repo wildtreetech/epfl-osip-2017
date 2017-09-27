@@ -32,7 +32,7 @@ Write your README! If you'll need to cover the following points:
 * Show what you're doing, for who, and why.
 * Explain what makes your project special, useful, exciting!
 * Show how to get started using or contribution to the project
-* State what resources and contributions you're looking for
+* State what resources and contributions you are looking for
 * Point to other key resources, such as a contributing.md file and a roadmap.
 
 Examples of READMEs that I like:
