@@ -42,14 +42,15 @@ To create a new branch and start working on it:
 git checkout master
 
 # Create and switch to your new branch
-git checkout -b mynewbranch
+git checkout -b adding_contributors
 ```
 
-Now you can make changes, add and then commit them as we did before:
+Now you can make your changes, in this case adding a section mentioning who has
+contributed to this repository. Then add and commit your changes as we did before:
 ```
-# change some files, then
-git add a-file-you-changed.txt
-git commit -m "Meaningful commit message"
+# change the README to add contributors, then
+git add README.md
+git commit -m "Add section on contributors"
 git push
 ```
 
@@ -63,12 +64,12 @@ Congratulations, you have made your first pull request!
 # Exercise
 
 Fork the `zuri-velo` repository, clone it to your laptop, create a new branch,
-edit a file, commit your changes, push your changes to GitHub and create a
-pull request.
+edit the README, add a section naming the collcommit your changes, push your
+changes to GitHub and create a pull request.
 
 ---
 
-# Accepting a pull request
+## Accepting a pull request
 
 To complete the next step, switch roles into being the owner of the original
 repository http://github.com/USER_A/zuri_velo. You should see a new pull request,
