@@ -13,6 +13,7 @@ Workshop for [Open Science in Practice at EPFL 2017](https://osip2017.epfl.ch/).
 1. [Collaborating on GitHub](github-collaboration.md)
 1. Testing your work
 1. Bonus material
+    * binder
 
 
 # Slides
