@@ -69,7 +69,7 @@ changes to GitHub and create a pull request.
 
 ---
 
-# Accepting a pull request
+## Accepting a pull request
 
 To complete the next step, switch roles into being the owner of the original
 repository http://github.com/USER_A/zuri_velo. You should see a new pull request,

@@ -42,6 +42,8 @@ Examples of READMEs that I like:
 
 _Note: have you commited your changes?_
 
+---
+
 ## Remove jargon
 
 The US space team's [Up goer five](https://xkcd.com/1133/). Copy and paste
