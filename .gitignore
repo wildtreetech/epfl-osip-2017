@@ -1,1 +1,4 @@
+# temporary jupyter files
 .ipynb_checkpoints/
+# ignore data files
+*.csv
