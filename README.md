@@ -21,6 +21,12 @@ Workshop for [Open Science in Practice at EPFL 2017](https://osip2017.epfl.ch/).
 Slides for the day that you can comment on: https://docs.google.com/presentation/d/1BpJBOKu1h4mDJ5QOT-AMXN9id9S2KfBx2LeEnb6gqBc/edit?usp=sharing
 
 
+# Launch this in the cloud
+
+Click the below link to launch this in the cloud, no installing needed:
+https://beta.mybinder.org/v2/gh/wildtreetech/epfl-osip-2017/master
+
+
 # Credits
 
 This repository is based on many excellent guides, courses and videos created
